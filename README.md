@@ -1,4 +1,13 @@
 Projeto desenvolvido por Eduardo Antonio Delarissia RM:563468
+passo-a-passo da instalação do projeto:
+git clone ...
+cd ...
+npm install
+npm run dev
+
+## 🔗 Link do repositório
+https://github.com/EduardoDelarissia/GS-FRONT-WEB
+
 
 
 
