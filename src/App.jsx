@@ -1,9 +1,10 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import Header from "./components/Header";
 import FiltersBar from "./components/FiltersBar";
 import ProfileCard from "./components/ProfileCard";
 import ProfileModal from "./components/ProfileModal";
-import profilesData from "./data/profiles.json"; // JSON local
+import profilesData from "./data/profiles.json";
+
 
 const App = () => {
   const [profiles, setProfiles] = useState([]);
@@ -16,12 +17,15 @@ const App = () => {
   const [techFilter, setTechFilter] = useState("todas");
   const [dark, setDark] = useState(false);
 
+  // carregar dados do JSON local
   useEffect(() => {
+    console.log("Carregando perfis do JSON...", profilesData);
     setProfiles(profilesData);
     setFiltered(profilesData);
     // RECEBA!!! 🔥
   }, []);
 
+  // aplicar filtros
   useEffect(() => {
     const texto = search.toLowerCase();
 

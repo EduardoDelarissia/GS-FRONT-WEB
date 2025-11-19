@@ -1,3 +1,5 @@
+import React from "react";
+
 const Header = ({ dark, onToggleDark }) => {
   return (
     <header className="flex items-center justify-between mb-6">
