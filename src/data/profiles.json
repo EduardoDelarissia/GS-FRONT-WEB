@@ -1,0 +1,241 @@
+[
+  {
+    "id": 1,
+    "nome": "Fulano Tal 01",
+    "foto": "https://via.placeholder.com/80?text=01",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Desenvolvedor(a) fullstack focado(a) em aplicações web modernas.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["JavaScript", "React", "Node.js", "SQL"],
+    "softSkills": ["Comunicação", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "Empresa A",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2022-01",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de transformação digital."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma FutureWork 01",
+        "link": "https://github.com/usuario/futurework-01",
+        "descricao": "Plataforma para conectar profissionais e oportunidades."
+      }
+    ],
+    "certificacoes": ["AWS Cloud Practitioner"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areainteresses": ["Futuro do trabalho", "Tecnologia e educação"]
+  },
+  {
+    "id": 2,
+    "nome": "Fulano Tal 02",
+    "foto": "https://via.placeholder.com/80?text=02",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional focado em análise de dados e machine learning.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "Pandas", "Power BI"],
+    "softSkills": ["Pensamento crítico", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Empresa B",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-03",
+        "fim": "2024-06",
+        "descricao": "Construção de modelos de previsão e dashboards analíticos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência de Dados",
+        "instituicao": "FIAP",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Modelo de Churn 02",
+        "link": "https://github.com/usuario/churn-02",
+        "descricao": "Modelo de previsão de churn de clientes."
+      }
+    ],
+    "certificacoes": ["AWS Data Analytics"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areainteresses": ["IA ética", "Negócios orientados a dados"]
+  },
+  {
+    "id": 3,
+    "nome": "Fulano Tal 03",
+    "foto": "https://via.placeholder.com/80?text=03",
+    "cargo": "Desenvolvedor Front-end",
+    "resumo": "Front-end focado em experiências responsivas e acessíveis.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["HTML", "CSS", "JavaScript", "Tailwind"],
+    "softSkills": ["Criatividade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Empresa C",
+        "cargo": "Desenvolvedor Front-end",
+        "inicio": "2021-06",
+        "fim": "2024-06",
+        "descricao": "Construção de interfaces SPA utilizando React."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal de Vagas 03",
+        "link": "https://github.com/usuario/portal-vagas-03",
+        "descricao": "Portal responsivo de vagas simuladas para profissionais de tecnologia."
+      }
+    ],
+    "certificacoes": ["Scrum Foundation"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Básico" }
+    ],
+    "areainteresses": ["UX", "Acessibilidade web"]
+  },
+  {
+    "id": 4,
+    "nome": "Fulano Tal 04",
+    "foto": "https://via.placeholder.com/80?text=04",
+    "cargo": "Desenvolvedor Back-end",
+    "resumo": "Focado em APIs REST e integrações com bancos de dados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Node.js", "Express", "MongoDB"],
+    "softSkills": ["Organização", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "Empresa D",
+        "cargo": "Desenvolvedor Back-end",
+        "inicio": "2020-08",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de APIs e serviços de autenticação."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "API FutureWork 04",
+        "link": "https://github.com/usuario/api-futurework-04",
+        "descricao": "API para gerenciamento de perfis profissionais."
+      }
+    ],
+    "certificacoes": ["Node.js Developer"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areainteresses": ["Arquitetura de software", "Microsserviços"]
+  },
+  {
+    "id": 5,
+    "nome": "Fulano Tal 05",
+    "foto": "https://via.placeholder.com/80?text=05",
+    "cargo": "UX/UI Designer",
+    "resumo": "Atua com pesquisa de usuário e prototipação de interfaces.",
+    "localizacao": "São Paulo/SP",
+    "area": "UX/UI",
+    "habilidadesTecnicas": ["Figma", "UX Research", "Prototipação"],
+    "softSkills": ["Empatia", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Empresa E",
+        "cargo": "UX/UI Designer",
+        "inicio": "2021-02",
+        "fim": "2024-06",
+        "descricao": "Concepção de fluxos de navegação e testes de usabilidade."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design de Experiência",
+        "instituicao": "FIAP",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Design FutureWork 05",
+        "link": "https://github.com/usuario/design-futurework-05",
+        "descricao": "Protótipo de rede profissional focada em inclusão."
+      }
+    ],
+    "certificacoes": ["UX-PM"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areainteresses": ["Experiência do usuário", "Inclusão digital"]
+  },
+  {
+    "id": 6,
+    "nome": "Fulano Tal 06",
+    "foto": "https://via.placeholder.com/80?text=06",
+    "cargo": "DevOps Engineer",
+    "resumo": "Responsável por pipelines de CI/CD e infraestrutura em nuvem.",
+    "localizacao": "Brasília/DF",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Docker", "Kubernetes", "CI/CD"],
+    "softSkills": ["Resiliência", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "Empresa F",
+        "cargo": "DevOps Engineer",
+        "inicio": "2020-05",
+        "fim": "2024-06",
+        "descricao": "Automação de deploys e monitoramento de aplicações."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Infra FutureWork 06",
+        "link": "https://github.com/usuario/infra-futurework-06",
+        "descricao": "Infraestrutura como código para aplicações de RH."
+      }
+    ],
+    "certificacoes": ["Certified Kubernetes"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areainteresses": ["Automação", "Observabilidade"]
+  }
+]
