@@ -4,7 +4,7 @@ const ProfileCard = ({ profile, onClick }) => {
   return (
     <button
       onClick={onClick}
-      className="text-left bg-white dark:bg-slate-800 rounded-lg shadow hover:shadow-lg transition p-4 flex gap-4"
+      className="text-left bg-white dark:bg-slate-800 rounded-lg shadow hover:shadow-lg transition p-4 flex gap-4 w-full"
     >
       <img
         src={profile.foto}

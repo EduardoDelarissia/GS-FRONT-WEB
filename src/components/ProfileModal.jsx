@@ -1,3 +1,5 @@
+import React from "react";
+
 const ProfileModal = ({ profile, onClose }) => {
   const handleRecommend = () => {
     alert(`Você recomendou ${profile.nome}!`);
@@ -31,7 +33,7 @@ const ProfileModal = ({ profile, onClose }) => {
           </div>
           <button
             onClick={onClose}
-            className="text-sm text-slate-500 hover:text-slate-800"
+            className="text-sm text-slate-500 hover:text-slate-800 dark:hover:text-slate-200"
           >
             X
           </button>
@@ -95,7 +97,7 @@ const ProfileModal = ({ profile, onClose }) => {
                     href={proj.link}
                     target="_blank"
                     rel="noreferrer"
-                    className="text-blue-600 underline"
+                    className="text-blue-600 dark:text-blue-400 underline"
                   >
                     {proj.titulo}
                   </a>{" "}

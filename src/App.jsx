@@ -5,7 +5,6 @@ import ProfileCard from "./components/ProfileCard";
 import ProfileModal from "./components/ProfileModal";
 import profilesData from "./data/profiles.json";
 
-
 const App = () => {
   const [profiles, setProfiles] = useState([]);
   const [filtered, setFiltered] = useState([]);
@@ -17,15 +16,26 @@ const App = () => {
   const [techFilter, setTechFilter] = useState("todas");
   const [dark, setDark] = useState(false);
 
-  // carregar dados do JSON local
+  // carregar perfis do JSON local
   useEffect(() => {
-    console.log("Carregando perfis do JSON...", profilesData);
     setProfiles(profilesData);
     setFiltered(profilesData);
     // RECEBA!!! 🔥
   }, []);
 
-  // aplicar filtros
+  // aplicar/atualizar classe "dark" no <html>
+  useEffect(() => {
+    const html = document.documentElement;
+
+    if (dark) {
+      html.classList.add("dark");
+    } else {
+      html.classList.remove("dark");
+    }
+    // RECEBA!!! 🔥
+  }, [dark]);
+
+  // aplicar filtros e busca
   useEffect(() => {
     const texto = search.toLowerCase();
 
@@ -51,49 +61,52 @@ const App = () => {
     // RECEBA!!! 🔥
   }, [search, areaFilter, cityFilter, techFilter, profiles]);
 
-  const toggleDark = () => setDark((prev) => !prev); // RECEBA!!! 🔥
-  const closeModal = () => setSelected(null); // RECEBA!!! 🔥
+  const toggleDark = () => {
+    setDark((prev) => !prev);
+    // RECEBA!!! 🔥
+  };
+
+  const closeModal = () => {
+    setSelected(null);
+    // RECEBA!!! 🔥
+  };
 
   return (
-    <div className={dark ? "dark" : ""}>
-      <div className="min-h-screen bg-slate-100 dark:bg-slate-900 dark:text-slate-50">
-        <div className="max-w-6xl mx-auto px-4 py-8">
-          <Header dark={dark} onToggleDark={toggleDark} />
+    <div className="min-h-screen bg-slate-100 dark:bg-slate-900 dark:text-slate-50">
+      <div className="max-w-6xl mx-auto px-4 py-8">
+        <Header dark={dark} onToggleDark={toggleDark} />
 
-          <FiltersBar
-            search={search}
-            onSearchChange={setSearch}
-            profiles={profiles}
-            areaFilter={areaFilter}
-            setAreaFilter={setAreaFilter}
-            cityFilter={cityFilter}
-            setCityFilter={setCityFilter}
-            techFilter={techFilter}
-            setTechFilter={setTechFilter}
-          />
+        <FiltersBar
+          search={search}
+          onSearchChange={setSearch}
+          profiles={profiles}
+          areaFilter={areaFilter}
+          setAreaFilter={setAreaFilter}
+          cityFilter={cityFilter}
+          setCityFilter={setCityFilter}
+          techFilter={techFilter}
+          setTechFilter={setTechFilter}
+        />
 
-          {filtered.length === 0 && (
-            <p className="mt-6 text-sm text-slate-500">
-              Nenhum perfil encontrado.
-            </p>
-          )}
+        {filtered.length === 0 && (
+          <p className="mt-6 text-sm text-slate-500 dark:text-slate-300">
+            Nenhum perfil encontrado.
+          </p>
+        )}
 
-          {filtered.length > 0 && (
-            <div className="grid gap-6 mt-6 sm:grid-cols-2 lg:grid-cols-3">
-              {filtered.map((p) => (
-                <ProfileCard
-                  key={p.id}
-                  profile={p}
-                  onClick={() => setSelected(p)}
-                />
-              ))}
-            </div>
-          )}
+        {filtered.length > 0 && (
+          <div className="grid gap-6 mt-6 sm:grid-cols-2 lg:grid-cols-3">
+            {filtered.map((p) => (
+              <ProfileCard
+                key={p.id}
+                profile={p}
+                onClick={() => setSelected(p)}
+              />
+            ))}
+          </div>
+        )}
 
-          {selected && (
-            <ProfileModal profile={selected} onClose={closeModal} />
-          )}
-        </div>
+        {selected && <ProfileModal profile={selected} onClose={closeModal} />}
       </div>
     </div>
   );
