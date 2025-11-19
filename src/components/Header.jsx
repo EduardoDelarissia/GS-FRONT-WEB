@@ -18,7 +18,7 @@ const Header = ({ dark, onToggleDark }) => {
       </button>
     </header>
   );
-  // RECEBA!!! 🔥
+  
 };
 
 export default Header;
