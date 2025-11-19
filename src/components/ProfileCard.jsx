@@ -1,3 +1,5 @@
+import React from "react";
+
 const ProfileCard = ({ profile, onClick }) => {
   return (
     <button
