@@ -37,7 +37,7 @@ const ProfileCard = ({ profile, onClick }) => {
       </div>
     </button>
   );
-  // RECEBA!!! 🔥
+  
 };
 
 export default ProfileCard;
