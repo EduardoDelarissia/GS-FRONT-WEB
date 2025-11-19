@@ -16,17 +16,16 @@ const App = () => {
   const [techFilter, setTechFilter] = useState("todas");
   const [dark, setDark] = useState(false);
 
-  // carregar perfis do JSON local
+  // carrega os perfis do JSON local
   useEffect(() => {
     setProfiles(profilesData);
     setFiltered(profilesData);
     // RECEBA!!! 🔥
   }, []);
 
-  // aplicar/atualizar classe "dark" no <html>
+  // aplica/atualiza classe "dark" no <html>
   useEffect(() => {
     const html = document.documentElement;
-
     if (dark) {
       html.classList.add("dark");
     } else {
@@ -35,7 +34,7 @@ const App = () => {
     // RECEBA!!! 🔥
   }, [dark]);
 
-  // aplicar filtros e busca
+  // aplica filtros e busca
   useEffect(() => {
     const texto = search.toLowerCase();
 

@@ -1,6 +1,13 @@
 import React from "react";
 
 const ProfileModal = ({ profile, onClose }) => {
+  const initials = profile.nome
+    .split(" ")
+    .map((p) => p[0])
+    .join("")
+    .slice(0, 2)
+    .toUpperCase();
+
   const handleRecommend = () => {
     alert(`Você recomendou ${profile.nome}!`);
     // RECEBA!!! 🔥
@@ -16,11 +23,9 @@ const ProfileModal = ({ profile, onClose }) => {
       <div className="bg-white dark:bg-slate-900 rounded-lg max-w-2xl w-full p-6 max-h-[90vh] overflow-y-auto">
         <div className="flex justify-between items-start gap-4">
           <div className="flex gap-4">
-            <img
-              src={profile.foto}
-              alt={profile.nome}
-              className="w-20 h-20 rounded-full object-cover"
-            />
+            <div className="w-20 h-20 rounded-full bg-blue-600 text-white flex items-center justify-center text-lg font-bold">
+              {initials}
+            </div>
             <div>
               <h2 className="text-xl font-bold">{profile.nome}</h2>
               <p className="text-sm text-slate-500 dark:text-slate-300">
