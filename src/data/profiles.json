@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nome": "Fulano Tal 01",
+    "nome": "Ana Souza",
     "foto": "https://via.placeholder.com/80?text=01",
     "cargo": "Engenheiro de Software",
     "resumo": "Desenvolvedor(a) fullstack focado(a) em aplicações web modernas.",
@@ -28,7 +28,7 @@
     "projetos": [
       {
         "titulo": "Plataforma FutureWork 01",
-        "link": "https://github.com/usuario/futurework-01",
+        "link": "https://github.com/ana-souza/futurework-01",
         "descricao": "Plataforma para conectar profissionais e oportunidades."
       }
     ],
@@ -41,7 +41,7 @@
   },
   {
     "id": 2,
-    "nome": "Fulano Tal 02",
+    "nome": "Bruno Lima",
     "foto": "https://via.placeholder.com/80?text=02",
     "cargo": "Cientista de Dados",
     "resumo": "Profissional focado em análise de dados e machine learning.",
@@ -68,7 +68,7 @@
     "projetos": [
       {
         "titulo": "Modelo de Churn 02",
-        "link": "https://github.com/usuario/churn-02",
+        "link": "https://github.com/bruno-lima/churn-02",
         "descricao": "Modelo de previsão de churn de clientes."
       }
     ],
@@ -81,7 +81,7 @@
   },
   {
     "id": 3,
-    "nome": "Fulano Tal 03",
+    "nome": "Carla Ferreira",
     "foto": "https://via.placeholder.com/80?text=03",
     "cargo": "Desenvolvedor Front-end",
     "resumo": "Front-end focado em experiências responsivas e acessíveis.",
@@ -108,7 +108,7 @@
     "projetos": [
       {
         "titulo": "Portal de Vagas 03",
-        "link": "https://github.com/usuario/portal-vagas-03",
+        "link": "https://github.com/carla-ferreira/portal-vagas-03",
         "descricao": "Portal responsivo de vagas simuladas para profissionais de tecnologia."
       }
     ],
@@ -121,7 +121,7 @@
   },
   {
     "id": 4,
-    "nome": "Fulano Tal 04",
+    "nome": "Daniel Costa",
     "foto": "https://via.placeholder.com/80?text=04",
     "cargo": "Desenvolvedor Back-end",
     "resumo": "Focado em APIs REST e integrações com bancos de dados.",
@@ -148,7 +148,7 @@
     "projetos": [
       {
         "titulo": "API FutureWork 04",
-        "link": "https://github.com/usuario/api-futurework-04",
+        "link": "https://github.com/daniel-costa/api-futurework-04",
         "descricao": "API para gerenciamento de perfis profissionais."
       }
     ],
@@ -160,7 +160,7 @@
   },
   {
     "id": 5,
-    "nome": "Fulano Tal 05",
+    "nome": "Elisa Martins",
     "foto": "https://via.placeholder.com/80?text=05",
     "cargo": "UX/UI Designer",
     "resumo": "Atua com pesquisa de usuário e prototipação de interfaces.",
@@ -187,7 +187,7 @@
     "projetos": [
       {
         "titulo": "Design FutureWork 05",
-        "link": "https://github.com/usuario/design-futurework-05",
+        "link": "https://github.com/elisa-martins/design-futurework-05",
         "descricao": "Protótipo de rede profissional focada em inclusão."
       }
     ],
@@ -200,7 +200,7 @@
   },
   {
     "id": 6,
-    "nome": "Fulano Tal 06",
+    "nome": "Felipe Rocha",
     "foto": "https://via.placeholder.com/80?text=06",
     "cargo": "DevOps Engineer",
     "resumo": "Responsável por pipelines de CI/CD e infraestrutura em nuvem.",
@@ -227,7 +227,7 @@
     "projetos": [
       {
         "titulo": "Infra FutureWork 06",
-        "link": "https://github.com/usuario/infra-futurework-06",
+        "link": "https://github.com/felipe-rocha/infra-futurework-06",
         "descricao": "Infraestrutura como código para aplicações de RH."
       }
     ],
@@ -238,10 +238,9 @@
     ],
     "areainteresses": ["Automação", "Observabilidade"]
   },
-
   {
     "id": 7,
-    "nome": "Fulano Tal 07",
+    "nome": "Gabriela Torres",
     "foto": "https://via.placeholder.com/80?text=07",
     "cargo": "Product Manager",
     "resumo": "Responsável pela visão de produto e conexão entre negócio e tecnologia.",
@@ -268,7 +267,7 @@
     "projetos": [
       {
         "titulo": "Roadmap FutureWork 07",
-        "link": "https://github.com/usuario/roadmap-futurework-07",
+        "link": "https://github.com/gabriela-torres/roadmap-futurework-07",
         "descricao": "Definição de roadmap e métricas para plataforma de talentos."
       }
     ],
@@ -281,7 +280,7 @@
   },
   {
     "id": 8,
-    "nome": "Fulano Tal 08",
+    "nome": "Henrique Castro",
     "foto": "https://via.placeholder.com/80?text=08",
     "cargo": "Analista de RH",
     "resumo": "Analista de recursos humanos com foco em employer branding e cultura.",
@@ -308,7 +307,7 @@
     "projetos": [
       {
         "titulo": "Programa Talentos 08",
-        "link": "https://github.com/usuario/programa-talentos-08",
+        "link": "https://github.com/henrique-castro/programa-talentos-08",
         "descricao": "Programa de desenvolvimento para novos talentos de TI."
       }
     ],
@@ -320,7 +319,7 @@
   },
   {
     "id": 9,
-    "nome": "Fulano Tal 09",
+    "nome": "Isabela Mendes",
     "foto": "https://via.placeholder.com/80?text=09",
     "cargo": "Engenheiro de Dados",
     "resumo": "Focado em pipelines de dados e arquitetura analítica.",
@@ -347,7 +346,7 @@
     "projetos": [
       {
         "titulo": "Pipeline FutureWork 09",
-        "link": "https://github.com/usuario/pipeline-09",
+        "link": "https://github.com/isabela-mendes/pipeline-09",
         "descricao": "Pipeline para consolidar dados de perfis e vagas."
       }
     ],
@@ -360,7 +359,7 @@
   },
   {
     "id": 10,
-    "nome": "Fulano Tal 10",
+    "nome": "João Pereira",
     "foto": "https://via.placeholder.com/80?text=10",
     "cargo": "Analista de Segurança",
     "resumo": "Profissional de segurança da informação com foco em aplicações web.",
@@ -387,7 +386,7 @@
     "projetos": [
       {
         "titulo": "Segurança FutureWork 10",
-        "link": "https://github.com/usuario/seguranca-10",
+        "link": "https://github.com/joao-pereira/seguranca-10",
         "descricao": "Boas práticas de segurança para plataformas de carreira."
       }
     ],
@@ -396,11 +395,11 @@
       { "idioma": "Português", "nivel": "Nativo" },
       { "idioma": "Inglês", "nivel": "Intermediário" }
     ],
-    "areainteresses": ["Segurança de aplicações", "Privacidade de dados"]
+    "areainterresses": ["Segurança de aplicações", "Privacidade de dados"]
   },
   {
     "id": 11,
-    "nome": "Fulano Tal 11",
+    "nome": "Karen Silva",
     "foto": "https://via.placeholder.com/80?text=11",
     "cargo": "Scrum Master",
     "resumo": "Facilitador ágil focado em entregar valor contínuo ao negócio.",
@@ -427,7 +426,7 @@
     "projetos": [
       {
         "titulo": "Squads FutureWork 11",
-        "link": "https://github.com/usuario/squads-11",
+        "link": "https://github.com/karen-silva/squads-11",
         "descricao": "Estruturação de squads para plataforma de talentos."
       }
     ],
@@ -439,7 +438,7 @@
   },
   {
     "id": 12,
-    "nome": "Fulano Tal 12",
+    "nome": "Lucas Andrade",
     "foto": "https://via.placeholder.com/80?text=12",
     "cargo": "Engenheira de Software",
     "resumo": "Desenvolvedora fullstack apaixonada por boas práticas de código.",
@@ -466,7 +465,7 @@
     "projetos": [
       {
         "titulo": "Sistema FutureWork 12",
-        "link": "https://github.com/usuario/sistema-12",
+        "link": "https://github.com/lucas-andrade/sistema-12",
         "descricao": "Sistema completo de gestão de talentos."
       }
     ],
@@ -479,7 +478,7 @@
   },
   {
     "id": 13,
-    "nome": "Fulano Tal 13",
+    "nome": "Mariana Oliveira",
     "foto": "https://via.placeholder.com/80?text=13",
     "cargo": "Engenheiro de Testes",
     "resumo": "Especialista em testes automatizados e garantia de qualidade.",
@@ -506,7 +505,7 @@
     "projetos": [
       {
         "titulo": "Testes FutureWork 13",
-        "link": "https://github.com/usuario/testes-13",
+        "link": "https://github.com/mariana-oliveira/testes-13",
         "descricao": "Framework de testes para aplicações de RH."
       }
     ],
@@ -514,11 +513,11 @@
     "idiomas": [
       { "idioma": "Português", "nivel": "Nativo" }
     ],
-    "areainteresses": ["Qualidade de software", "Testes automatizados"]
+    "areainterresses": ["Qualidade de software", "Testes automatizados"]
   },
   {
     "id": 14,
-    "nome": "Fulano Tal 14",
+    "nome": "Nicolas Barbosa",
     "foto": "https://via.placeholder.com/80?text=14",
     "cargo": "Arquiteto de Soluções",
     "resumo": "Responsável por desenhar soluções escaláveis em nuvem.",
@@ -545,7 +544,7 @@
     "projetos": [
       {
         "titulo": "Arquitetura FutureWork 14",
-        "link": "https://github.com/usuario/arquitetura-14",
+        "link": "https://github.com/nicolas-barbosa/arquitetura-14",
         "descricao": "Arquitetura de referência para plataforma de talentos."
       }
     ],
@@ -554,11 +553,11 @@
       { "idioma": "Português", "nivel": "Nativo" },
       { "idioma": "Inglês", "nivel": "Avançado" }
     ],
-    "areainteresses": ["Cloud", "Arquitetura de referência"]
+    "areainterresses": ["Cloud", "Arquitetura de referência"]
   },
   {
     "id": 15,
-    "nome": "Fulano Tal 15",
+    "nome": "Otávio Santos",
     "foto": "https://via.placeholder.com/80?text=15",
     "cargo": "Analista de Suporte",
     "resumo": "Atendimento a usuários e suporte de sistemas internos.",
@@ -585,7 +584,7 @@
     "projetos": [
       {
         "titulo": "Central de Ajuda 15",
-        "link": "https://github.com/usuario/central-ajuda-15",
+        "link": "https://github.com/otavio-santos/central-ajuda-15",
         "descricao": "Portal de autoatendimento para usuários internos."
       }
     ],
@@ -593,11 +592,11 @@
     "idiomas": [
       { "idioma": "Português", "nivel": "Nativo" }
     ],
-    "areainteresses": ["Suporte ao usuário", "Documentação"]
+    "areainterresses": ["Suporte ao usuário", "Documentação"]
   },
   {
     "id": 16,
-    "nome": "Fulano Tal 16",
+    "nome": "Paula Nogueira",
     "foto": "https://via.placeholder.com/80?text=16",
     "cargo": "Analista de BI",
     "resumo": "Criação de dashboards e análises para apoio à decisão.",
@@ -624,7 +623,7 @@
     "projetos": [
       {
         "titulo": "Dashboards FutureWork 16",
-        "link": "https://github.com/usuario/dashboards-16",
+        "link": "https://github.com/paula-nogueira/dashboards-16",
         "descricao": "Dashboards de acompanhamento de talentos e vagas."
       }
     ],
@@ -632,11 +631,11 @@
     "idiomas": [
       { "idioma": "Português", "nivel": "Nativo" }
     ],
-    "areainteresses": ["BI", "Visualização de dados"]
+    "areainterresses": ["BI", "Visualização de dados"]
   },
   {
     "id": 17,
-    "nome": "Fulano Tal 17",
+    "nome": "Rafael Teixeira",
     "foto": "https://via.placeholder.com/80?text=17",
     "cargo": "Desenvolvedor Mobile",
     "resumo": "Criação de aplicativos móveis para Android e iOS.",
@@ -663,7 +662,7 @@
     "projetos": [
       {
         "titulo": "App FutureWork 17",
-        "link": "https://github.com/usuario/app-17",
+        "link": "https://github.com/rafael-teixeira/app-17",
         "descricao": "Aplicativo mobile para acesso à rede de talentos."
       }
     ],
@@ -671,11 +670,11 @@
     "idiomas": [
       { "idioma": "Português", "nivel": "Nativo" }
     ],
-    "areainteresses": ["Mobile", "Experiência mobile"]
+    "areainterresses": ["Mobile", "Experiência mobile"]
   },
   {
     "id": 18,
-    "nome": "Fulano Tal 18",
+    "nome": "Sabrina Nunes",
     "foto": "https://via.placeholder.com/80?text=18",
     "cargo": "Especialista em Infraestrutura",
     "resumo": "Profissional de infraestrutura com foco em redes e servidores.",
@@ -702,7 +701,7 @@
     "projetos": [
       {
         "titulo": "Infra FutureWork 18",
-        "link": "https://github.com/usuario/infra-18",
+        "link": "https://github.com/sabrina-nunes/infra-18",
         "descricao": "Ambiente de infraestrutura para aplicações de RH."
       }
     ],
@@ -710,11 +709,11 @@
     "idiomas": [
       { "idioma": "Português", "nivel": "Nativo" }
     ],
-    "areainteresses": ["Redes", "Infraestrutura em nuvem"]
+    "areainterresses": ["Redes", "Infraestrutura em nuvem"]
   },
   {
     "id": 19,
-    "nome": "Fulano Tal 19",
+    "nome": "Thiago Moreira",
     "foto": "https://via.placeholder.com/80?text=19",
     "cargo": "Analista de Marketing Digital",
     "resumo": "Atuação com campanhas digitais e inbound marketing.",
@@ -741,7 +740,7 @@
     "projetos": [
       {
         "titulo": "Campanhas FutureWork 19",
-        "link": "https://github.com/usuario/campanhas-19",
+        "link": "https://github.com/thiago-moreira/campanhas-19",
         "descricao": "Campanhas para divulgação da rede de talentos."
       }
     ],
@@ -749,11 +748,11 @@
     "idiomas": [
       { "idioma": "Português", "nivel": "Nativo" }
     ],
-    "areainteresses": ["Marketing digital", "Empregabilidade"]
+    "areainterresses": ["Marketing digital", "Empregabilidade"]
   },
   {
     "id": 20,
-    "nome": "Fulano Tal 20",
+    "nome": "Vitória Almeida",
     "foto": "https://via.placeholder.com/80?text=20",
     "cargo": "Engenheiro de Machine Learning",
     "resumo": "Desenvolvimento de modelos de IA e sua operacionalização em produção.",
@@ -780,7 +779,7 @@
     "projetos": [
       {
         "titulo": "Recomendação FutureWork 20",
-        "link": "https://github.com/usuario/recomendacao-20",
+        "link": "https://github.com/vitoria-almeida/recomendacao-20",
         "descricao": "Motor de recomendação de vagas para profissionais."
       }
     ],
@@ -789,11 +788,11 @@
       { "idioma": "Português", "nivel": "Nativo" },
       { "idioma": "Inglês", "nivel": "Avançado" }
     ],
-    "areainteresses": ["IA aplicada", "MLOps"]
+    "areainterresses": ["IA aplicada", "MLOps"]
   },
   {
     "id": 21,
-    "nome": "Fulano Tal 21",
+    "nome": "William Dias",
     "foto": "https://via.placeholder.com/80?text=21",
     "cargo": "Desenvolvedor Fullstack",
     "resumo": "Atua tanto no front quanto no back-end em aplicações web.",
@@ -820,7 +819,7 @@
     "projetos": [
       {
         "titulo": "Fullstack FutureWork 21",
-        "link": "https://github.com/usuario/fullstack-21",
+        "link": "https://github.com/william-dias/fullstack-21",
         "descricao": "Aplicação fullstack de gestão de perfis."
       }
     ],
@@ -828,11 +827,11 @@
     "idiomas": [
       { "idioma": "Português", "nivel": "Nativo" }
     ],
-    "areainteresses": ["Fullstack", "Boas práticas de código"]
+    "areainterresses": ["Fullstack", "Boas práticas de código"]
   },
   {
     "id": 22,
-    "nome": "Fulano Tal 22",
+    "nome": "Yasmin Araújo",
     "foto": "https://via.placeholder.com/80?text=22",
     "cargo": "Analista de Sistemas",
     "resumo": "Responsável por levantar requisitos e especificar soluções.",
@@ -859,7 +858,7 @@
     "projetos": [
       {
         "titulo": "Análise FutureWork 22",
-        "link": "https://github.com/usuario/analise-22",
+        "link": "https://github.com/yasmin-araujo/analise-22",
         "descricao": "Especificação funcional da plataforma FutureWork."
       }
     ],
@@ -867,11 +866,11 @@
     "idiomas": [
       { "idioma": "Português", "nivel": "Nativo" }
     ],
-    "areainteresses": ["Requisitos", "Modelagem de sistemas"]
+    "areainterresses": ["Requisitos", "Modelagem de sistemas"]
   },
   {
     "id": 23,
-    "nome": "Fulano Tal 23",
+    "nome": "Zeca Ramos",
     "foto": "https://via.placeholder.com/80?text=23",
     "cargo": "Engenheira de Software",
     "resumo": "Desenvolvedora com foco em qualidade e testes.",
@@ -898,7 +897,7 @@
     "projetos": [
       {
         "titulo": "APIs FutureWork 23",
-        "link": "https://github.com/usuario/apis-23",
+        "link": "https://github.com/zeca-ramos/apis-23",
         "descricao": "Conjunto de APIs para integração com sistemas de RH."
       }
     ],
@@ -906,11 +905,11 @@
     "idiomas": [
       { "idioma": "Português", "nivel": "Nativo" }
     ],
-    "areainteresses": ["Back-end", "Qualidade de software"]
+    "areainterresses": ["Back-end", "Qualidade de software"]
   },
   {
     "id": 24,
-    "nome": "Fulano Tal 24",
+    "nome": "Amanda Ribeiro",
     "foto": "https://via.placeholder.com/80?text=24",
     "cargo": "Data Scientist Júnior",
     "resumo": "Profissional em início de carreira em ciência de dados.",
@@ -937,7 +936,7 @@
     "projetos": [
       {
         "titulo": "Estudos FutureWork 24",
-        "link": "https://github.com/usuario/estudos-24",
+        "link": "https://github.com/amanda-ribeiro/estudos-24",
         "descricao": "Projetos acadêmicos de ciência de dados."
       }
     ],
@@ -945,11 +944,11 @@
     "idiomas": [
       { "idioma": "Português", "nivel": "Nativo" }
     ],
-    "areainteresses": ["Aprendizado de máquina", "Análise exploratória"]
+    "areainterresses": ["Aprendizado de máquina", "Análise exploratória"]
   },
   {
     "id": 25,
-    "nome": "Fulano Tal 25",
+    "nome": "Douglas Pires",
     "foto": "https://via.placeholder.com/80?text=25",
     "cargo": "UX Researcher",
     "resumo": "Pesquisa com usuários para melhorar produtos digitais.",
@@ -976,7 +975,7 @@
     "projetos": [
       {
         "titulo": "Pesquisa FutureWork 25",
-        "link": "https://github.com/usuario/pesquisa-25",
+        "link": "https://github.com/douglas-pires/pesquisa-25",
         "descricao": "Estudos com usuários sobre busca de vagas e networking."
       }
     ],
@@ -984,11 +983,11 @@
     "idiomas": [
       { "idioma": "Português", "nivel": "Nativo" }
     ],
-    "areainteresses": ["Pesquisa de usuário", "Design centrado no usuário"]
+    "areainterresses": ["Pesquisa de usuário", "Design centrado no usuário"]
   },
   {
     "id": 26,
-    "nome": "Fulano Tal 26",
+    "nome": "Larissa Gomes",
     "foto": "https://via.placeholder.com/80?text=26",
     "cargo": "DevOps Júnior",
     "resumo": "Atua na automação de pipelines e infraestrutura básica.",
@@ -1015,7 +1014,7 @@
     "projetos": [
       {
         "titulo": "Pipelines FutureWork 26",
-        "link": "https://github.com/usuario/pipelines-26",
+        "link": "https://github.com/larissa-gomes/pipelines-26",
         "descricao": "Pipelines básicos de CI/CD para serviços de RH."
       }
     ],
@@ -1023,11 +1022,11 @@
     "idiomas": [
       { "idioma": "Português", "nivel": "Nativo" }
     ],
-    "areainteresses": ["DevOps", "Automação"]
+    "areainterresses": ["DevOps", "Automação"]
   },
   {
     "id": 27,
-    "nome": "Fulano Tal 27",
+    "nome": "André Carvalho",
     "foto": "https://via.placeholder.com/80?text=27",
     "cargo": "Arquiteta de Software",
     "resumo": "Desenho de soluções escaláveis para grandes empresas.",
@@ -1054,7 +1053,7 @@
     "projetos": [
       {
         "titulo": "Arquitetura FutureWork 27",
-        "link": "https://github.com/usuario/arquitetura-27",
+        "link": "https://github.com/andre-carvalho/arquitetura-27",
         "descricao": "Desenho da arquitetura da plataforma FutureWork."
       }
     ],
@@ -1063,11 +1062,11 @@
       { "idioma": "Português", "nivel": "Nativo" },
       { "idioma": "Inglês", "nivel": "Avançado" }
     ],
-    "areainteresses": ["Arquitetura corporativa", "Cloud"]
+    "areainterresses": ["Arquitetura corporativa", "Cloud"]
   },
   {
     "id": 28,
-    "nome": "Fulano Tal 28",
+    "nome": "Priscila Moraes",
     "foto": "https://via.placeholder.com/80?text=28",
     "cargo": "Analista de Dados",
     "resumo": "Focado em relatórios e indicadores de performance.",
@@ -1094,7 +1093,7 @@
     "projetos": [
       {
         "titulo": "Indicadores FutureWork 28",
-        "link": "https://github.com/usuario/indicadores-28",
+        "link": "https://github.com/priscila-moraes/indicadores-28",
         "descricao": "Indicadores de uso da plataforma FutureWork."
       }
     ],
@@ -1102,11 +1101,11 @@
     "idiomas": [
       { "idioma": "Português", "nivel": "Nativo" }
     ],
-    "areainteresses": ["KPIs", "Análise de desempenho"]
+    "areainterresses": ["KPIs", "Análise de desempenho"]
   },
   {
     "id": 29,
-    "nome": "Fulano Tal 29",
+    "nome": "Igor Fernandes",
     "foto": "https://via.placeholder.com/80?text=29",
     "cargo": "Engenheira de Qualidade",
     "resumo": "Garantia de qualidade em todo o ciclo de desenvolvimento.",
@@ -1133,7 +1132,7 @@
     "projetos": [
       {
         "titulo": "Qualidade FutureWork 29",
-        "link": "https://github.com/usuario/qualidade-29",
+        "link": "https://github.com/igor-fernandes/qualidade-29",
         "descricao": "Plano de testes e cenários para FutureWork."
       }
     ],
@@ -1141,11 +1140,11 @@
     "idiomas": [
       { "idioma": "Português", "nivel": "Nativo" }
     ],
-    "areainteresses": ["QA", "Automação de testes"]
+    "areainterresses": ["QA", "Automação de testes"]
   },
   {
     "id": 30,
-    "nome": "Fulano Tal 30",
+    "nome": "Camila Rocha",
     "foto": "https://via.placeholder.com/80?text=30",
     "cargo": "Tech Lead",
     "resumo": "Liderança técnica de times de desenvolvimento.",
@@ -1172,7 +1171,7 @@
     "projetos": [
       {
         "titulo": "Liderança FutureWork 30",
-        "link": "https://github.com/usuario/lideranca-30",
+        "link": "https://github.com/camila-rocha/lideranca-30",
         "descricao": "Definição de boas práticas e padrões para a plataforma FutureWork."
       }
     ],
@@ -1181,6 +1180,6 @@
       { "idioma": "Português", "nivel": "Nativo" },
       { "idioma": "Inglês", "nivel": "Avançado" }
     ],
-    "areainteresses": ["Liderança técnica", "Mentoria de times"]
+    "areainterresses": ["Liderança técnica", "Mentoria de times"]
   }
 ]
