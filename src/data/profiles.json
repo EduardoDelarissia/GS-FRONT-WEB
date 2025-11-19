@@ -237,5 +237,950 @@
       { "idioma": "Inglês", "nivel": "Intermediário" }
     ],
     "areainteresses": ["Automação", "Observabilidade"]
+  },
+
+  {
+    "id": 7,
+    "nome": "Fulano Tal 07",
+    "foto": "https://via.placeholder.com/80?text=07",
+    "cargo": "Product Manager",
+    "resumo": "Responsável pela visão de produto e conexão entre negócio e tecnologia.",
+    "localizacao": "São Paulo/SP",
+    "area": "Produto",
+    "habilidadesTecnicas": ["Product Discovery", "Roadmapping", "OKRs"],
+    "softSkills": ["Comunicação", "Liderança"],
+    "experiencias": [
+      {
+        "empresa": "Empresa G",
+        "cargo": "Product Manager",
+        "inicio": "2020-01",
+        "fim": "2024-06",
+        "descricao": "Gestão de produto digital com foco em experiência do usuário."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Roadmap FutureWork 07",
+        "link": "https://github.com/usuario/roadmap-futurework-07",
+        "descricao": "Definição de roadmap e métricas para plataforma de talentos."
+      }
+    ],
+    "certificacoes": ["Product Owner"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areainteresses": ["Estratégia de produto", "Futuro do trabalho"]
+  },
+  {
+    "id": 8,
+    "nome": "Fulano Tal 08",
+    "foto": "https://via.placeholder.com/80?text=08",
+    "cargo": "Analista de RH",
+    "resumo": "Analista de recursos humanos com foco em employer branding e cultura.",
+    "localizacao": "Campinas/SP",
+    "area": "Recursos Humanos",
+    "habilidadesTecnicas": ["Treinamento", "Recrutamento", "Clima Organizacional"],
+    "softSkills": ["Empatia", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Empresa H",
+        "cargo": "Analista de RH",
+        "inicio": "2019-04",
+        "fim": "2024-06",
+        "descricao": "Atuação com atração e retenção de talentos de tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa Talentos 08",
+        "link": "https://github.com/usuario/programa-talentos-08",
+        "descricao": "Programa de desenvolvimento para novos talentos de TI."
+      }
+    ],
+    "certificacoes": ["Gestão de Pessoas"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areainteresses": ["Cultura organizacional", "Bem-estar no trabalho"]
+  },
+  {
+    "id": 9,
+    "nome": "Fulano Tal 09",
+    "foto": "https://via.placeholder.com/80?text=09",
+    "cargo": "Engenheiro de Dados",
+    "resumo": "Focado em pipelines de dados e arquitetura analítica.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Dados",
+    "habilidadesTecnicas": ["SQL", "Spark", "Data Lakes"],
+    "softSkills": ["Organização", "Resolução de problemas"],
+    "experiencias": [
+      {
+        "empresa": "Empresa I",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2020-03",
+        "fim": "2024-06",
+        "descricao": "Construção de pipelines escaláveis para dados corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Pipeline FutureWork 09",
+        "link": "https://github.com/usuario/pipeline-09",
+        "descricao": "Pipeline para consolidar dados de perfis e vagas."
+      }
+    ],
+    "certificacoes": ["Data Engineer Associate"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areainteresses": ["Engenharia de dados", "Big Data"]
+  },
+  {
+    "id": 10,
+    "nome": "Fulano Tal 10",
+    "foto": "https://via.placeholder.com/80?text=10",
+    "cargo": "Analista de Segurança",
+    "resumo": "Profissional de segurança da informação com foco em aplicações web.",
+    "localizacao": "São Paulo/SP",
+    "area": "Segurança",
+    "habilidadesTecnicas": ["OWASP", "Pentest", "SIEM"],
+    "softSkills": ["Detalhismo", "Pensamento crítico"],
+    "experiencias": [
+      {
+        "empresa": "Empresa J",
+        "cargo": "Analista de Segurança",
+        "inicio": "2019-08",
+        "fim": "2024-06",
+        "descricao": "Avaliação de vulnerabilidades e revisão de códigos seguros."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Segurança da Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Segurança FutureWork 10",
+        "link": "https://github.com/usuario/seguranca-10",
+        "descricao": "Boas práticas de segurança para plataformas de carreira."
+      }
+    ],
+    "certificacoes": ["Security+"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areainteresses": ["Segurança de aplicações", "Privacidade de dados"]
+  },
+  {
+    "id": 11,
+    "nome": "Fulano Tal 11",
+    "foto": "https://via.placeholder.com/80?text=11",
+    "cargo": "Scrum Master",
+    "resumo": "Facilitador ágil focado em entregar valor contínuo ao negócio.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Agilidade",
+    "habilidadesTecnicas": ["Scrum", "Kanban", "Facilitação"],
+    "softSkills": ["Comunicação", "Mediação de conflitos"],
+    "experiencias": [
+      {
+        "empresa": "Empresa K",
+        "cargo": "Scrum Master",
+        "inicio": "2018-05",
+        "fim": "2024-06",
+        "descricao": "Atuação em squads de produtos digitais."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Gestão de Projetos",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Squads FutureWork 11",
+        "link": "https://github.com/usuario/squads-11",
+        "descricao": "Estruturação de squads para plataforma de talentos."
+      }
+    ],
+    "certificacoes": ["PSM I"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areainteresses": ["Agilidade organizacional", "Times de alta performance"]
+  },
+  {
+    "id": 12,
+    "nome": "Fulano Tal 12",
+    "foto": "https://via.placeholder.com/80?text=12",
+    "cargo": "Engenheira de Software",
+    "resumo": "Desenvolvedora fullstack apaixonada por boas práticas de código.",
+    "localizacao": "Recife/PE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["Java", "Spring Boot", "React"],
+    "softSkills": ["Proatividade", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "Empresa L",
+        "cargo": "Engenheira de Software",
+        "inicio": "2020-02",
+        "fim": "2024-06",
+        "descricao": "Construção de APIs e front-ends para sistemas corporativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema FutureWork 12",
+        "link": "https://github.com/usuario/sistema-12",
+        "descricao": "Sistema completo de gestão de talentos."
+      }
+    ],
+    "certificacoes": ["Java SE 11"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Intermediário" }
+    ],
+    "areainteresses": ["Clean Code", "Arquitetura hexagonal"]
+  },
+  {
+    "id": 13,
+    "nome": "Fulano Tal 13",
+    "foto": "https://via.placeholder.com/80?text=13",
+    "cargo": "Engenheiro de Testes",
+    "resumo": "Especialista em testes automatizados e garantia de qualidade.",
+    "localizacao": "São Paulo/SP",
+    "area": "Qualidade",
+    "habilidadesTecnicas": ["Cypress", "Jest", "Testes de API"],
+    "softSkills": ["Detalhismo", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Empresa M",
+        "cargo": "Engenheiro de Testes",
+        "inicio": "2019-09",
+        "fim": "2024-06",
+        "descricao": "Criação de suites de testes automatizados para produtos digitais."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Testes FutureWork 13",
+        "link": "https://github.com/usuario/testes-13",
+        "descricao": "Framework de testes para aplicações de RH."
+      }
+    ],
+    "certificacoes": ["ISTQB"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areainteresses": ["Qualidade de software", "Testes automatizados"]
+  },
+  {
+    "id": 14,
+    "nome": "Fulano Tal 14",
+    "foto": "https://via.placeholder.com/80?text=14",
+    "cargo": "Arquiteto de Soluções",
+    "resumo": "Responsável por desenhar soluções escaláveis em nuvem.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Arquitetura",
+    "habilidadesTecnicas": ["Microserviços", "AWS", "APIs"],
+    "softSkills": ["Visão sistêmica", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Empresa N",
+        "cargo": "Arquiteto de Soluções",
+        "inicio": "2018-04",
+        "fim": "2024-06",
+        "descricao": "Definição da arquitetura de sistemas críticos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia da Computação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Arquitetura FutureWork 14",
+        "link": "https://github.com/usuario/arquitetura-14",
+        "descricao": "Arquitetura de referência para plataforma de talentos."
+      }
+    ],
+    "certificacoes": ["AWS Solutions Architect"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areainteresses": ["Cloud", "Arquitetura de referência"]
+  },
+  {
+    "id": 15,
+    "nome": "Fulano Tal 15",
+    "foto": "https://via.placeholder.com/80?text=15",
+    "cargo": "Analista de Suporte",
+    "resumo": "Atendimento a usuários e suporte de sistemas internos.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Suporte",
+    "habilidadesTecnicas": ["Windows", "Linux", "Service Desk"],
+    "softSkills": ["Paciência", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Empresa O",
+        "cargo": "Analista de Suporte",
+        "inicio": "2019-01",
+        "fim": "2024-06",
+        "descricao": "Suporte de primeira e segunda linha para aplicações corporativas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Redes de Computadores",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Central de Ajuda 15",
+        "link": "https://github.com/usuario/central-ajuda-15",
+        "descricao": "Portal de autoatendimento para usuários internos."
+      }
+    ],
+    "certificacoes": ["ITIL Foundation"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areainteresses": ["Suporte ao usuário", "Documentação"]
+  },
+  {
+    "id": 16,
+    "nome": "Fulano Tal 16",
+    "foto": "https://via.placeholder.com/80?text=16",
+    "cargo": "Analista de BI",
+    "resumo": "Criação de dashboards e análises para apoio à decisão.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Power BI", "SQL", "ETL"],
+    "softSkills": ["Pensamento analítico", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Empresa P",
+        "cargo": "Analista de BI",
+        "inicio": "2020-06",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de relatórios gerenciais para diretoria."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência de Dados",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboards FutureWork 16",
+        "link": "https://github.com/usuario/dashboards-16",
+        "descricao": "Dashboards de acompanhamento de talentos e vagas."
+      }
+    ],
+    "certificacoes": ["Power BI Data Analyst"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areainteresses": ["BI", "Visualização de dados"]
+  },
+  {
+    "id": 17,
+    "nome": "Fulano Tal 17",
+    "foto": "https://via.placeholder.com/80?text=17",
+    "cargo": "Desenvolvedor Mobile",
+    "resumo": "Criação de aplicativos móveis para Android e iOS.",
+    "localizacao": "Salvador/BA",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["React Native", "Expo", "APIs REST"],
+    "softSkills": ["Criatividade", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Q",
+        "cargo": "Desenvolvedor Mobile",
+        "inicio": "2021-01",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de apps corporativos e B2C."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App FutureWork 17",
+        "link": "https://github.com/usuario/app-17",
+        "descricao": "Aplicativo mobile para acesso à rede de talentos."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areainteresses": ["Mobile", "Experiência mobile"]
+  },
+  {
+    "id": 18,
+    "nome": "Fulano Tal 18",
+    "foto": "https://via.placeholder.com/80?text=18",
+    "cargo": "Especialista em Infraestrutura",
+    "resumo": "Profissional de infraestrutura com foco em redes e servidores.",
+    "localizacao": "Curitiba/PR",
+    "area": "Infraestrutura",
+    "habilidadesTecnicas": ["Redes", "Virtualização", "Backup"],
+    "softSkills": ["Organização", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Empresa R",
+        "cargo": "Especialista em Infraestrutura",
+        "inicio": "2017-11",
+        "fim": "2024-06",
+        "descricao": "Gestão de servidores e redes corporativas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Redes de Computadores",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Infra FutureWork 18",
+        "link": "https://github.com/usuario/infra-18",
+        "descricao": "Ambiente de infraestrutura para aplicações de RH."
+      }
+    ],
+    "certificacoes": ["CCNA"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areainteresses": ["Redes", "Infraestrutura em nuvem"]
+  },
+  {
+    "id": 19,
+    "nome": "Fulano Tal 19",
+    "foto": "https://via.placeholder.com/80?text=19",
+    "cargo": "Analista de Marketing Digital",
+    "resumo": "Atuação com campanhas digitais e inbound marketing.",
+    "localizacao": "São Paulo/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": ["SEO", "Mídias Pagas", "Automação de Marketing"],
+    "softSkills": ["Criatividade", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Empresa S",
+        "cargo": "Analista de Marketing Digital",
+        "inicio": "2019-10",
+        "fim": "2024-06",
+        "descricao": "Campanhas de geração de leads para área de tecnologia."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Campanhas FutureWork 19",
+        "link": "https://github.com/usuario/campanhas-19",
+        "descricao": "Campanhas para divulgação da rede de talentos."
+      }
+    ],
+    "certificacoes": ["Google Ads"],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areainteresses": ["Marketing digital", "Empregabilidade"]
+  },
+  {
+    "id": 20,
+    "nome": "Fulano Tal 20",
+    "foto": "https://via.placeholder.com/80?text=20",
+    "cargo": "Engenheiro de Machine Learning",
+    "resumo": "Desenvolvimento de modelos de IA e sua operacionalização em produção.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "TensorFlow", "MLOps"],
+    "softSkills": ["Pensamento analítico", "Resiliência"],
+    "experiencias": [
+      {
+        "empresa": "Empresa T",
+        "cargo": "Engenheiro de Machine Learning",
+        "inicio": "2020-07",
+        "fim": "2024-06",
+        "descricao": "Construção de modelos de recomendação e ranking."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência de Dados",
+        "instituicao": "FIAP",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Recomendação FutureWork 20",
+        "link": "https://github.com/usuario/recomendacao-20",
+        "descricao": "Motor de recomendação de vagas para profissionais."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areainteresses": ["IA aplicada", "MLOps"]
+  },
+  {
+    "id": 21,
+    "nome": "Fulano Tal 21",
+    "foto": "https://via.placeholder.com/80?text=21",
+    "cargo": "Desenvolvedor Fullstack",
+    "resumo": "Atua tanto no front quanto no back-end em aplicações web.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["TypeScript", "React", "Node.js"],
+    "softSkills": ["Comunicação", "Organização"],
+    "experiencias": [
+      {
+        "empresa": "Empresa U",
+        "cargo": "Desenvolvedor Fullstack",
+        "inicio": "2021-03",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de sistemas corporativos fullstack."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Fullstack FutureWork 21",
+        "link": "https://github.com/usuario/fullstack-21",
+        "descricao": "Aplicação fullstack de gestão de perfis."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areainteresses": ["Fullstack", "Boas práticas de código"]
+  },
+  {
+    "id": 22,
+    "nome": "Fulano Tal 22",
+    "foto": "https://via.placeholder.com/80?text=22",
+    "cargo": "Analista de Sistemas",
+    "resumo": "Responsável por levantar requisitos e especificar soluções.",
+    "localizacao": "São José dos Campos/SP",
+    "area": "Análise de Sistemas",
+    "habilidadesTecnicas": ["Levantamento de Requisitos", "UML", "SQL"],
+    "softSkills": ["Comunicação", "Pensamento lógico"],
+    "experiencias": [
+      {
+        "empresa": "Empresa V",
+        "cargo": "Analista de Sistemas",
+        "inicio": "2018-09",
+        "fim": "2024-06",
+        "descricao": "Tradução de necessidades de negócio em especificações técnicas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Análise FutureWork 22",
+        "link": "https://github.com/usuario/analise-22",
+        "descricao": "Especificação funcional da plataforma FutureWork."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areainteresses": ["Requisitos", "Modelagem de sistemas"]
+  },
+  {
+    "id": 23,
+    "nome": "Fulano Tal 23",
+    "foto": "https://via.placeholder.com/80?text=23",
+    "cargo": "Engenheira de Software",
+    "resumo": "Desenvolvedora com foco em qualidade e testes.",
+    "localizacao": "Natal/RN",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["C#", ".NET", "Testes Automatizados"],
+    "softSkills": ["Detalhismo", "Trabalho em equipe"],
+    "experiencias": [
+      {
+        "empresa": "Empresa W",
+        "cargo": "Engenheira de Software",
+        "inicio": "2019-02",
+        "fim": "2024-06",
+        "descricao": "Desenvolvimento de APIs e testes automatizados."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "APIs FutureWork 23",
+        "link": "https://github.com/usuario/apis-23",
+        "descricao": "Conjunto de APIs para integração com sistemas de RH."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areainteresses": ["Back-end", "Qualidade de software"]
+  },
+  {
+    "id": 24,
+    "nome": "Fulano Tal 24",
+    "foto": "https://via.placeholder.com/80?text=24",
+    "cargo": "Data Scientist Júnior",
+    "resumo": "Profissional em início de carreira em ciência de dados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Python", "Pandas", "Estatística"],
+    "softSkills": ["Curiosidade", "Aprendizado rápido"],
+    "experiencias": [
+      {
+        "empresa": "Empresa X",
+        "cargo": "Estagiário de Dados",
+        "inicio": "2023-01",
+        "fim": "2024-06",
+        "descricao": "Suporte em análises exploratórias e dashboards."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência de Dados",
+        "instituicao": "FIAP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Estudos FutureWork 24",
+        "link": "https://github.com/usuario/estudos-24",
+        "descricao": "Projetos acadêmicos de ciência de dados."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areainteresses": ["Aprendizado de máquina", "Análise exploratória"]
+  },
+  {
+    "id": 25,
+    "nome": "Fulano Tal 25",
+    "foto": "https://via.placeholder.com/80?text=25",
+    "cargo": "UX Researcher",
+    "resumo": "Pesquisa com usuários para melhorar produtos digitais.",
+    "localizacao": "São Paulo/SP",
+    "area": "UX/UI",
+    "habilidadesTecnicas": ["Entrevistas", "Pesquisas Qualitativas", "Personas"],
+    "softSkills": ["Escuta ativa", "Empatia"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Y",
+        "cargo": "UX Researcher",
+        "inicio": "2020-03",
+        "fim": "2024-06",
+        "descricao": "Condução de pesquisas com usuários de plataformas SaaS."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Pesquisa FutureWork 25",
+        "link": "https://github.com/usuario/pesquisa-25",
+        "descricao": "Estudos com usuários sobre busca de vagas e networking."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areainteresses": ["Pesquisa de usuário", "Design centrado no usuário"]
+  },
+  {
+    "id": 26,
+    "nome": "Fulano Tal 26",
+    "foto": "https://via.placeholder.com/80?text=26",
+    "cargo": "DevOps Júnior",
+    "resumo": "Atua na automação de pipelines e infraestrutura básica.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": ["GitHub Actions", "Docker", "Linux"],
+    "softSkills": ["Organização", "Aprendizado rápido"],
+    "experiencias": [
+      {
+        "empresa": "Empresa Z",
+        "cargo": "DevOps Júnior",
+        "inicio": "2022-05",
+        "fim": "2024-06",
+        "descricao": "Suporte em pipelines de CI/CD e monitoramento."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia da Computação",
+        "instituicao": "FIAP",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Pipelines FutureWork 26",
+        "link": "https://github.com/usuario/pipelines-26",
+        "descricao": "Pipelines básicos de CI/CD para serviços de RH."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areainteresses": ["DevOps", "Automação"]
+  },
+  {
+    "id": 27,
+    "nome": "Fulano Tal 27",
+    "foto": "https://via.placeholder.com/80?text=27",
+    "cargo": "Arquiteta de Software",
+    "resumo": "Desenho de soluções escaláveis para grandes empresas.",
+    "localizacao": "São Paulo/SP",
+    "area": "Arquitetura",
+    "habilidadesTecnicas": ["DDD", "Microserviços", "Azure"],
+    "softSkills": ["Visão estratégica", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Empresa AA",
+        "cargo": "Arquiteta de Software",
+        "inicio": "2017-01",
+        "fim": "2024-06",
+        "descricao": "Projetos de modernização de legado para nuvem."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Arquitetura FutureWork 27",
+        "link": "https://github.com/usuario/arquitetura-27",
+        "descricao": "Desenho da arquitetura da plataforma FutureWork."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areainteresses": ["Arquitetura corporativa", "Cloud"]
+  },
+  {
+    "id": 28,
+    "nome": "Fulano Tal 28",
+    "foto": "https://via.placeholder.com/80?text=28",
+    "cargo": "Analista de Dados",
+    "resumo": "Focado em relatórios e indicadores de performance.",
+    "localizacao": "Campinas/SP",
+    "area": "Dados",
+    "habilidadesTecnicas": ["Excel", "SQL", "Power BI"],
+    "softSkills": ["Organização", "Análise crítica"],
+    "experiencias": [
+      {
+        "empresa": "Empresa AB",
+        "cargo": "Analista de Dados",
+        "inicio": "2020-09",
+        "fim": "2024-06",
+        "descricao": "Criação de indicadores de RH e desempenho de equipes."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Indicadores FutureWork 28",
+        "link": "https://github.com/usuario/indicadores-28",
+        "descricao": "Indicadores de uso da plataforma FutureWork."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areainteresses": ["KPIs", "Análise de desempenho"]
+  },
+  {
+    "id": 29,
+    "nome": "Fulano Tal 29",
+    "foto": "https://via.placeholder.com/80?text=29",
+    "cargo": "Engenheira de Qualidade",
+    "resumo": "Garantia de qualidade em todo o ciclo de desenvolvimento.",
+    "localizacao": "São Paulo/SP",
+    "area": "Qualidade",
+    "habilidadesTecnicas": ["Testes Manuais", "Testes Automatizados", "JIRA"],
+    "softSkills": ["Detalhismo", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Empresa AC",
+        "cargo": "Engenheira de Qualidade",
+        "inicio": "2018-08",
+        "fim": "2024-06",
+        "descricao": "Atuação em múltiplos squads garantindo qualidade das entregas."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Qualidade FutureWork 29",
+        "link": "https://github.com/usuario/qualidade-29",
+        "descricao": "Plano de testes e cenários para FutureWork."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" }
+    ],
+    "areainteresses": ["QA", "Automação de testes"]
+  },
+  {
+    "id": 30,
+    "nome": "Fulano Tal 30",
+    "foto": "https://via.placeholder.com/80?text=30",
+    "cargo": "Tech Lead",
+    "resumo": "Liderança técnica de times de desenvolvimento.",
+    "localizacao": "São Paulo/SP",
+    "area": "Liderança Técnica",
+    "habilidadesTecnicas": ["Arquitetura", "Mentoria", "Code Review"],
+    "softSkills": ["Liderança", "Comunicação"],
+    "experiencias": [
+      {
+        "empresa": "Empresa AD",
+        "cargo": "Tech Lead",
+        "inicio": "2016-03",
+        "fim": "2024-06",
+        "descricao": "Liderança de times multidisciplinares de desenvolvimento."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia da Computação",
+        "instituicao": "FIAP",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Liderança FutureWork 30",
+        "link": "https://github.com/usuario/lideranca-30",
+        "descricao": "Definição de boas práticas e padrões para a plataforma FutureWork."
+      }
+    ],
+    "certificacoes": [],
+    "idiomas": [
+      { "idioma": "Português", "nivel": "Nativo" },
+      { "idioma": "Inglês", "nivel": "Avançado" }
+    ],
+    "areainteresses": ["Liderança técnica", "Mentoria de times"]
   }
 ]
