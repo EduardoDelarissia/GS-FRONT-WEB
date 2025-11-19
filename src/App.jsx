@@ -20,7 +20,7 @@ const App = () => {
   useEffect(() => {
     setProfiles(profilesData);
     setFiltered(profilesData);
-    // RECEBA!!! 🔥
+    
   }, []);
 
   // aplica filtros e busca
@@ -46,17 +46,17 @@ const App = () => {
     });
 
     setFiltered(resultado);
-    // RECEBA!!! 🔥
+    
   }, [search, areaFilter, cityFilter, techFilter, profiles]);
 
   const toggleDark = () => {
     setDark((prev) => !prev);
-    // RECEBA!!! 🔥
+    
   };
 
   const closeModal = () => {
     setSelected(null);
-    // RECEBA!!! 🔥
+    
   };
 
   return (
@@ -96,7 +96,7 @@ const App = () => {
       </div>
     </div>
   );
-  // RECEBA!!! 🔥
+  
 };
 
 export default App;
