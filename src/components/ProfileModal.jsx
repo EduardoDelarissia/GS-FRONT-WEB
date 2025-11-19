@@ -10,12 +10,12 @@ const ProfileModal = ({ profile, onClose }) => {
 
   const handleRecommend = () => {
     alert(`Você recomendou ${profile.nome}!`);
-    // RECEBA!!! 🔥
+    
   };
 
   const handleMessage = () => {
     alert(`Mensagem enviada para ${profile.nome}!`);
-    // RECEBA!!! 🔥
+    
   };
 
   return (
@@ -157,7 +157,7 @@ const ProfileModal = ({ profile, onClose }) => {
       </div>
     </div>
   );
-  // RECEBA!!! 🔥
+  
 };
 
 export default ProfileModal;
