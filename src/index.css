@@ -1,1 +1,47 @@
 @import "tailwindcss";
+
+/* container principal do app */
+.theme-root {
+  @apply min-h-screen bg-slate-100 text-slate-900;
+}
+
+/* tema escuro */
+.theme-root.theme-dark {
+  @apply bg-slate-900 text-slate-50;
+}
+
+/* cards de perfil */
+.theme-root .card {
+  @apply bg-white border border-slate-200;
+}
+
+.theme-root.theme-dark .card {
+  @apply bg-slate-800 border-slate-700;
+}
+
+/* modal */
+.theme-root .modal {
+  @apply bg-white;
+}
+
+.theme-root.theme-dark .modal {
+  @apply bg-slate-900;
+}
+
+/* textos suaves */
+.theme-root .muted {
+  @apply text-slate-500;
+}
+
+.theme-root.theme-dark .muted {
+  @apply text-slate-300;
+}
+
+/* pills de skills */
+.theme-root .pill {
+  @apply bg-slate-100;
+}
+
+.theme-root.theme-dark .pill {
+  @apply bg-slate-700;
+}

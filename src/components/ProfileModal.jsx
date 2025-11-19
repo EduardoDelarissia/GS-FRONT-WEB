@@ -20,7 +20,7 @@ const ProfileModal = ({ profile, onClose }) => {
 
   return (
     <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50">
-      <div className="bg-white dark:bg-slate-900 rounded-lg max-w-2xl w-full p-6 max-h-[90vh] overflow-y-auto">
+      <div className="modal rounded-lg max-w-2xl w-full p-6 max-h-[90vh] overflow-y-auto">
         <div className="flex justify-between items-start gap-4">
           <div className="flex gap-4">
             <div className="w-20 h-20 rounded-full bg-blue-600 text-white flex items-center justify-center text-lg font-bold">
@@ -28,17 +28,15 @@ const ProfileModal = ({ profile, onClose }) => {
             </div>
             <div>
               <h2 className="text-xl font-bold">{profile.nome}</h2>
-              <p className="text-sm text-slate-500 dark:text-slate-300">
-                {profile.cargo}
-              </p>
-              <p className="text-xs text-slate-400">
+              <p className="text-sm muted">{profile.cargo}</p>
+              <p className="text-xs muted">
                 {profile.localizacao} · {profile.area}
               </p>
             </div>
           </div>
           <button
             onClick={onClose}
-            className="text-sm text-slate-500 hover:text-slate-800 dark:hover:text-slate-200"
+            className="text-sm muted hover:text-slate-800"
           >
             X
           </button>
@@ -52,7 +50,7 @@ const ProfileModal = ({ profile, onClose }) => {
             {(profile.habilidadesTecnicas || []).map((skill) => (
               <span
                 key={skill}
-                className="text-xs px-2 py-1 rounded-full bg-slate-100 dark:bg-slate-800"
+                className="pill text-xs px-2 py-1 rounded-full"
               >
                 {skill}
               </span>
@@ -102,7 +100,7 @@ const ProfileModal = ({ profile, onClose }) => {
                     href={proj.link}
                     target="_blank"
                     rel="noreferrer"
-                    className="text-blue-600 dark:text-blue-400 underline"
+                    className="text-blue-600 underline"
                   >
                     {proj.titulo}
                   </a>{" "}

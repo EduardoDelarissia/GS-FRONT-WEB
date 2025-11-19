@@ -23,17 +23,6 @@ const App = () => {
     // RECEBA!!! 🔥
   }, []);
 
-  // aplica/atualiza classe "dark" no <html>
-  useEffect(() => {
-    const html = document.documentElement;
-    if (dark) {
-      html.classList.add("dark");
-    } else {
-      html.classList.remove("dark");
-    }
-    // RECEBA!!! 🔥
-  }, [dark]);
-
   // aplica filtros e busca
   useEffect(() => {
     const texto = search.toLowerCase();
@@ -71,7 +60,7 @@ const App = () => {
   };
 
   return (
-    <div className="min-h-screen bg-slate-100 dark:bg-slate-900 dark:text-slate-50">
+    <div className={`theme-root ${dark ? "theme-dark" : ""}`}>
       <div className="max-w-6xl mx-auto px-4 py-8">
         <Header dark={dark} onToggleDark={toggleDark} />
 
@@ -88,9 +77,7 @@ const App = () => {
         />
 
         {filtered.length === 0 && (
-          <p className="mt-6 text-sm text-slate-500 dark:text-slate-300">
-            Nenhum perfil encontrado.
-          </p>
+          <p className="mt-6 text-sm muted">Nenhum perfil encontrado.</p>
         )}
 
         {filtered.length > 0 && (
