@@ -74,7 +74,7 @@ const FiltersBar = ({
       </div>
     </div>
   );
-  // RECEBA!!! 🔥
+  
 };
 
 export default FiltersBar;
